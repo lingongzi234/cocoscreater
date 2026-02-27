@@ -1,0 +1,137 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mouse0",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -50
+        },
+        {
+          "frame": 1,
+          "value": 45
+        },
+        {
+          "frame": 2,
+          "value": -50
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 2
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": 0
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": -2
+        },
+        {
+          "frame": 0.25,
+          "value": 0
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 2
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": -2
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": 0
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 2
+        },
+        {
+          "frame": 0.75,
+          "value": 0
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": -2
+        },
+        {
+          "frame": 0.9166666666666666,
+          "value": 2
+        },
+        {
+          "frame": 1,
+          "value": 0.5
+        },
+        {
+          "frame": 1.0833333333333333,
+          "value": -2
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 0
+        },
+        {
+          "frame": 1.25,
+          "value": 2
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": 0
+        },
+        {
+          "frame": 1.4166666666666667,
+          "value": -2
+        },
+        {
+          "frame": 1.5,
+          "value": 0
+        },
+        {
+          "frame": 1.5833333333333333,
+          "value": 2
+        },
+        {
+          "frame": 1.6666666666666667,
+          "value": 0
+        },
+        {
+          "frame": 1.75,
+          "value": -2
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": 0
+        },
+        {
+          "frame": 1.9166666666666667,
+          "value": 2
+        },
+        {
+          "frame": 2,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "onFinish",
+      "params": []
+    }
+  ]
+}

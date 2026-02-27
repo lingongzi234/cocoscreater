@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "freedom",
+    "texture": "caf42253-1569-497e-83da-2d1696f5866b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      755,
+      755
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      755,
+      755
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

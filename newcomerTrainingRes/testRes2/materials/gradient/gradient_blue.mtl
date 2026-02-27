@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.Material",
+  "_name": "gradient_blue",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "483771c2-5297-4396-a652-48e1db885dad"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "topColor": {
+          "__type__": "cc.Color",
+          "r": 24,
+          "g": 61,
+          "b": 178,
+          "a": 255
+        },
+        "bottomColor": {
+          "__type__": "cc.Color",
+          "r": 20,
+          "g": 135,
+          "b": 216,
+          "a": 255
+        }
+      },
+      "defines": {
+        "USE_TEXTURE": false
+      }
+    }
+  }
+}

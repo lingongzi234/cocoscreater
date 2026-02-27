@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7ccdc262-23bd-444b-ae7d-512064e5f337",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 718,
+  "height": 1280,
+  "platformSettings": {},
+  "subMetas": {
+    "推箱子核心界面示意图": {
+      "ver": "1.0.6",
+      "uuid": "40385c99-eeef-4533-af8f-50dcddf99578",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7ccdc262-23bd-444b-ae7d-512064e5f337",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 718,
+      "height": 1280,
+      "rawWidth": 718,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

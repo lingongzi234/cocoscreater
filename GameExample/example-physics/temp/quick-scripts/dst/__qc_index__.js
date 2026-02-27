@@ -1,0 +1,63 @@
+
+                (function() {
+                    var nodeEnv = typeof require !== 'undefined' && typeof process !== 'undefined';
+                    var __module = nodeEnv ? module : {exports:{}};
+                    var __filename = 'preview-scripts/__qc_index__.js';
+                    var __require = nodeEnv ? function (request) {
+                        return cc.require(request);
+                    } : function (request) {
+                        return __quick_compile_project__.require(request, __filename);
+                    };
+                    function __define (exports, require, module) {
+                        if (!nodeEnv) {__quick_compile_project__.registerModule(__filename, module);}
+require('./assets/cases/demo/blob/blob-emit');
+require('./assets/cases/demo/blob/blob');
+require('./assets/cases/demo/blob/smooth');
+require('./assets/cases/demo/conveyor-belt');
+require('./assets/cases/demo/cutting-objects');
+require('./assets/cases/demo/gravity-radial');
+require('./assets/cases/demo/gravity');
+require('./assets/cases/demo/infinite-world/ball-control');
+require('./assets/cases/demo/infinite-world/camera-control');
+require('./assets/cases/demo/infinite-world/infinite-world');
+require('./assets/cases/demo/manifold');
+require('./assets/cases/demo/one-side-platform');
+require('./assets/cases/demo/ray-cast-reflection');
+require('./assets/cases/demo/ray-cast');
+require('./assets/cases/demo/stick-arrow/arrow');
+require('./assets/cases/demo/stick-arrow/shoot-arrow');
+require('./assets/cases/demo/tiled/hero-control');
+require('./assets/cases/demo/tiled/impulse');
+require('./assets/cases/example/chain');
+require('./assets/cases/example/linear-impulse');
+require('./assets/cases/example/velocity');
+require('./assets/cases/test/body-enabled');
+require('./assets/cases/test/joint-list');
+require('./assets/cases/utils/cases-settings');
+require('./assets/cases/utils/physics-bound');
+require('./assets/i18n/LabelLocalized');
+require('./assets/i18n/data/en');
+require('./assets/i18n/data/zh');
+require('./assets/i18n/i18n');
+require('./assets/i18n/polyglot');
+require('./assets/migration/use_v2.0.x_cc.Toggle_event');
+require('./assets/physics-settings/physics-settings');
+require('./assets/start-scene/scripts/Global/AdaptiveSprite');
+require('./assets/start-scene/scripts/Global/Helpers');
+require('./assets/start-scene/scripts/Global/Instruction');
+require('./assets/start-scene/scripts/Global/ListItem');
+require('./assets/start-scene/scripts/Global/Menu');
+require('./assets/start-scene/scripts/Global/SceneList');
+require('./assets/start-scene/scripts/Global/TipsManager');
+require('./assets/test-dt');
+
+                    }
+                    if (nodeEnv) {
+                        __define(__module.exports, __require, __module);
+                    }
+                    else {
+                        __quick_compile_project__.registerModuleFunc(__filename, function () {
+                            __define(__module.exports, __require, __module);
+                        });
+                    }
+                })();

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HelloWorld2",
+    "texture": "c888fc2c-edb1-4d97-a88d-ef9ff73017fb",
+    "atlas": "",
+    "rect": [
+      44,
+      14,
+      175,
+      226
+    ],
+    "offset": [
+      3.5,
+      1
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cf501bb9-c81f-477d-8682-816a10b98cdf",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 60,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "yuKanIcon": {
+      "ver": "1.0.6",
+      "uuid": "810d5c38-b363-4bf9-b8d2-d1a36ce6f6bf",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cf501bb9-c81f-477d-8682-816a10b98cdf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 60,
+      "height": 60,
+      "rawWidth": 60,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

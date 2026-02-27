@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/script/GameConst.js"],"names":["GAME_CONST","time","module","exports"],"mappings":";;;;;;AAAA,IAAMA,UAAU,GAAG;EACfC,IAAI,EAAE;AADS,CAAnB;AAGAC,MAAM,CAACC,OAAP,GAAiBH,UAAjB","sourceRoot":"/","sourcesContent":["const GAME_CONST = {\n    time: \"20240710-14:52:13\",\n};\nmodule.exports = GAME_CONST;"]}

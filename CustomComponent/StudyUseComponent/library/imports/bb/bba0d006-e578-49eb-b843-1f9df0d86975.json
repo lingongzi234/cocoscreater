@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Cocos",
+    "texture": "16ef57ff-cb60-4fc4-a425-1ddf81f68fe3",
+    "atlas": "",
+    "rect": [
+      44,
+      14,
+      175,
+      226
+    ],
+    "offset": [
+      3.5,
+      1
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
